@@ -55,6 +55,18 @@ We will respect confidentiality requests for the purpose of protecting victims o
 ## Consequences
 Participants asked to stop any harassing behavior are expected to comply immediately. If a participant engages in harassing behavior, the administrators may take any action they deem appropriate, up to and including expulsion from the community and identification of the participant as a harasser to other members. At the discretion of the admins, or by request, one or more of the parties involved may request to discuss the violation and how to avoid similar situations in the future.
 
+## Conversational tone
+There will be some circumstances where despite not exhibiting harassing behaviour, the way in which a member engages in chat may not align with our goal of creating a welcoming space. Examples of this type of behaviour include:
+
+ * Being unnecessarily argumentative
+ * Attempting to provoke a reaction from an individual or group
+ * Needing to have the last word
+ * Unnecessarily reviving a potentially controversial discussion which has ended
+ 
+In these cases, a moderator may ask you to cease this behaviour. We ask that you do this, and any discussion about the incident be directed either to a private message conversation with the moderator in question, or where necessary a private conversation with multiple moderators.
+
+These are fuzzy areas, and response of moderators is at their discretion. If you witness any of the above negative behaviours, please alert a moderator, however we cannot commit the same level of responsiveness we aim for with harassment as documented above.
+
 ## Acknowledgements
 This Code of Conduct is adapted from the Community Covenant (http://community-covenant.net), version 1.0, available at http://community-covenant.net/version/1/0/. The Community Covenant is an open source effort and is built on codes of conduct that came before it, including the Contributor Covenant and the LGBTQ in Tech community code of conduct.
 
