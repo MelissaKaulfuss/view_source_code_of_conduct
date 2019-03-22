@@ -38,7 +38,7 @@ This community will not tolerate harassment of any kind. Examples of harassment 
 
 If you have questions or concerns about these issues please feel free to message an admin or ask for an opportunity to explore the issue with a moderator and volunteers.
 
-##Reporting
+## Reporting
 If you are being harassed by a member of our community, notice that someone else is being harassed, or have any other concerns, please contact the administrators via [INSERT APPROPRIATE CONTACT METHOD HERE]. If the person who is harassing you is on the admin team, they will not be involved in handling or resolving the incident.
 
 The admin team will respond to any complaint as promptly as possible we can. If you do not get a timely response (for example, if no admins are currently online) then please put your personal safety and well-being first, and consider logging out and/or contacting the admins by email at [EMAIL ADDRESS HERE].
@@ -47,13 +47,25 @@ This code of conduct applies to our community's spaces, but if you are being har
 
 In order to protect volunteers from abuse and burnout, we reserve the right to reject any report we believe to have been made in bad faith. Reports intended to silence legitimate criticism may be deleted without response.
 
-##Enforcement Process
+## Enforcement Process
 Every code of conduct violation report will be treated with seriousness and care. If a member's immediate safety and security is threatened, an individual admin may take any action that they deem appropriate, up to and including temporarily banning the offender from the community. In less urgent situations, at least two admins will discuss the offense and mutually arrive at a suitable response, which will be shared with the offender privately. Whatever the resolution that they decide upon, the decision of the admins involved in a violation case will be considered final.
 
 We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we've received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of our members or the general public. We will not name harassment victims without their affirmative consent.
 
-##Consequences
+## Consequences
 Participants asked to stop any harassing behavior are expected to comply immediately. If a participant engages in harassing behavior, the administrators may take any action they deem appropriate, up to and including expulsion from the community and identification of the participant as a harasser to other members. At the discretion of the admins, or by request, one or more of the parties involved may request to discuss the violation and how to avoid similar situations in the future.
+
+## Conversational tone
+There will be some circumstances where despite not exhibiting harassing behaviour, the way in which a member engages in chat may not align with our goal of creating a welcoming space. Examples of this type of behaviour include:
+
+ * Being unnecessarily argumentative
+ * Attempting to provoke a reaction from an individual or group
+ * Needing to have the last word
+ * Unnecessarily reviving a potentially controversial discussion which has ended
+ 
+In these cases, a moderator may ask you to cease this behaviour. We ask that you do this, and any discussion about the incident be directed either to a private message conversation with the moderator in question, or where necessary a private conversation with multiple moderators.
+
+These are fuzzy areas, and response of moderators is at their discretion. If you witness any of the above negative behaviours, please alert a moderator, however we cannot commit the same level of responsiveness we aim for with harassment as documented above.
 
 ## Acknowledgements
 This Code of Conduct is adapted from the Community Covenant (http://community-covenant.net), version 1.0, available at http://community-covenant.net/version/1/0/. The Community Covenant is an open source effort and is built on codes of conduct that came before it, including the Contributor Covenant and the LGBTQ in Tech community code of conduct.
